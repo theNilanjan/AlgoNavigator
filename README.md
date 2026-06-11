@@ -65,6 +65,7 @@ Contributions, suggestions, and feedback are welcome. As the project continues t
 Developed by Nilanjan Ghosh.
 
 This project is being built as part of my exploration of algorithms, data structures, and software development. It is currently under active development, with new features, optimizations, and pathfinding algorithms being added continuously.
+
 ---
 
 ⭐ If you find this project interesting, consider giving it a star and following its development.
