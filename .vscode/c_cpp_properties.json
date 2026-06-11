@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "name": "UCRT64",
+            "compilerPath": "C:/msys64/ucrt64/bin/g++.exe",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/msys64/ucrt64/include"
+            ],
+            "cppStandard": "c++20"
+        }
+    ],
+    "version": 4
+}
